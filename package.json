@@ -1,0 +1,25 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "I should but no :(",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "ws": "^3.0.0"
+  },
+  "author": "Francisco Galarza",
+  "license": "MIT",
+  "author": "Francisco Galarza",
+  "license": "MIT",
+  "engines": {
+    "node": "6.10.2",
+    "npm": "3.10.10"
+  }
+}
